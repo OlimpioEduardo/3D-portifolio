@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar"
 import Hero from "./sections/Hero"
+import LogoSection from "./sections/LogoSection"
 import ShowCase from "./sections/ShowCase"
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
     <Navbar/>
     <Hero/>
     <ShowCase/>
+    <LogoSection/>
     </>
   )
 }
