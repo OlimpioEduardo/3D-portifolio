@@ -1,5 +1,5 @@
 import { useGSAP } from "@gsap/react"
-import TechIcon from "../components/Models/TechLogos/TechIcon.jsx"
+import TechIcon from "../components/models/TechLogos/TechIcon.jsx"
 import TitleHeader from "../components/TitleHeader.jsx"
 import { techStackIcons } from "../constants"
 import gsap from "gsap"
